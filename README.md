@@ -122,5 +122,5 @@ $endif
 $endif
 ```
 # End Result
-[!image](354242.PNG)<br>
-[!image](354242.PNG)
+![image](354242.PNG)<br>
+![image](354242.PNG)
